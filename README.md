@@ -5,7 +5,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows-blue?logo=win) ![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=yellow)
 
-![Last Commit](https://img.shields.io/github/last-commit/example/crud-c?color=yellow&logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/example/crud-c?color=yellow&logo=github) 
 
 ## 1. Description
 A simple **CRUD application** developed in **C**, utilizing an **SQLite3 database** for data management. Designed as a console-based program for Windows systems, this project is lightweight and efficient.
